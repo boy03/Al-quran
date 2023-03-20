@@ -87,7 +87,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url('../foto/alqrn.jpg');
+  background-image: url('foto/alqrn.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -242,6 +242,23 @@ input {
   color: aliceblue;
 }
 /* encoba */
+
+/* menu */
+.menu-mm {
+  text-align: center;
+  color: #ffffff;
+}
+/* menu end */
+
+/* kontak */
+.contac-cc {
+  color: #ff0f0f;
+  text-align: center;
+  position: relative;
+  margin: 5rem;
+  padding-top: 20rem;
+}
+/* end kontak */
 
 /* meia queris */
 
