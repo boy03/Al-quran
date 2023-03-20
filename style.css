@@ -16,7 +16,7 @@ body {
   font-family: 'poppins', sans-serif;
   background-color: var(--bg);
   color: #fff;
-  min-height: 4000px;
+  min-height: 3000px;
 }
 
 /* Navbar */
@@ -252,11 +252,11 @@ input {
 
 /* kontak */
 .contac-cc {
-  color: #ff0f0f;
+  color: #8f0000;
   text-align: center;
   position: relative;
   margin: 5rem;
-  padding-top: 20rem;
+  padding: 15rem;
 }
 /* end kontak */
 
